@@ -135,7 +135,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ⚠️ex  attp UnniKuttan
 ■□■□■□■□■□■□■□■□■□■□
 ═════💢UnniKuttan💢═════
-▣▣▣▣▣▣▣▣▣ameersuhail▣▣▣▣▣▣▣▣▣▣▣
+▣▣▣▣▣▣▣▣▣ Madhav MN ▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
