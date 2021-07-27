@@ -8,7 +8,7 @@
             "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",
-            "NOT_FOUND": "*UnniKuttan couldnt find a command like this*",
+            "NOT_FOUND": "*I couldnt find a command like this*",
             "WARN": "Warn"
         },
         "_plugin": {
@@ -17,7 +17,7 @@
             "INVALID_URL": "```Please enter a valid url!```",
             "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:*",
             "INSTALLED": "*✅ Plugin has been successfully installed!*",
-            "PLUGIN_DESC": "Shows the plugins UnniKuttan have installed.",
+            "PLUGIN_DESC": "Shows the plugins you have installed.",
             "INSTALLED_FROM_REMOTE": "*Plugins you install externally:*\n",
             "NO_PLUGIN": "*You have not installed any external plugins!*",
             "REMOVE_DESC": "Removes the plugin.",
@@ -27,7 +27,7 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*njan admin alla kutta☹️*",
+            "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
             "BANNED": "Mwonu Ok Bie!",
             "GIVE_ME_USER": "*arelum mention chey😈!*",
             "ADD_DESC": "Adds someone to the group.",
@@ -75,7 +75,7 @@
             "RESTART_DESC": "Restart WhatsAsena",
             "RESTART_MSG": "```Restarting...🧚‍♂️```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
-            "SHUTDOWN_MSG": "```Shutting down UnniKuttan😴```",
+            "SHUTDOWN_MSG": "```Shutting down 😴```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```UnniKuttan Seriyakithra 🤠```"
+            "DOWNLOADING": "```Ippam Seriyakithra 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -216,8 +216,8 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Your UnniKuttan is completely up-to-date!*",
-            "NEW_UPDATE": "*UnniKuttan Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
+            "UPDATE": "*Your bot is completely up-to-date!*",
+            "NEW_UPDATE": "*UnniKuttan Update Available*\n\n",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
